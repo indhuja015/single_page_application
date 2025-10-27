@@ -21,7 +21,7 @@ Offline Support: Many SPAs can work offline using service workers and caching.
 💡 Examples
 
 Gmail – Loads inbox and messages dynamically without reloading the entire page.
-
+ 
 Google Maps – Updates map data smoothly as you pan or zoom.
 
 Trello / Asana – Offers an app-like task management experience in the browser.
